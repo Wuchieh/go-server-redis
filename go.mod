@@ -1,8 +1,8 @@
 module github.com/Wuchieh/go-server-redis
 
-go 1.24.6
+go 1.25.1
 
-require github.com/redis/go-redis/v9 v9.12.1
+require github.com/redis/go-redis/v9 v9.13.0
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
